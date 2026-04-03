@@ -30,6 +30,8 @@ Mi primera librería publicada. Cero dependencias en runtime, React 19, TypeScri
 ```tsx
 useShortcut('ctrl+k', openSearch)
 ```
+### [Daydream Adventure](https://github.com/VyJuze/daydream-adventure)
+> Game development project for a game-jam hackathon
 
 ---
 
