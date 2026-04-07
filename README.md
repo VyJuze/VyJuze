@@ -25,7 +25,7 @@ Explorando →
 ### 🎹 [React-Kord](https://github.com/VyJuze/React-Kord)
 > Keyboard chords for React — bind shortcuts in one line.
 
-Mi primera librería publicada. Cero dependencias en runtime, React 19, TypeScript estricto.
+Zero dependencies in runtime, React 19, strict Typescript.
 
 ```tsx
 useShortcut('ctrl+k', openSearch)
@@ -35,6 +35,12 @@ useShortcut('ctrl+k', openSearch)
 
 ---
 
+## [CosmicX] (https://github.com/VyJuze/space-app-challenge)
+
+> A educational interactive adventure type game builded for the NASA space app challenge 2025.
+
+Winner of two categories and a second place in Space app challenge Barranquilla 
+Worked in godot engine
 ## Actualmente
 
 - 🔨 Trabajando en proyectos freelance de frontend
