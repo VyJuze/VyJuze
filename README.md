@@ -35,7 +35,7 @@ useShortcut('ctrl+k', openSearch)
 
 ---
 
-## [CosmicX] (https://github.com/VyJuze/space-app-challenge)
+## [CosmicX] (https://github.com/VyJuze/Space-App-Game)
 
 > A educational interactive adventure type game builded for the NASA space app challenge 2025.
 
